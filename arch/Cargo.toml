@@ -20,7 +20,7 @@ log = "0.4.14"
 serde = { version = "1.0.131", features = ["rc"] }
 serde_derive = "1.0.130"
 thiserror = "1.0.30"
-versionize = "0.1.6"
+versionize = "0.1.10"
 versionize_derive = "0.1.4"
 vm-memory = { version = "0.6.0", features = ["backend-mmap", "backend-bitmap"] }
 vm-migration = { path = "../vm-migration" }
