@@ -14,7 +14,7 @@ libc = "0.2.109"
 log = "0.4.14"
 qcow = { path = "../qcow" }
 thiserror = "1.0.30"
-versionize = "0.1.6"
+versionize = "0.1.10"
 versionize_derive = "0.1.4"
 vhdx = { path = "../vhdx" }
 virtio-bindings = { version = "0.1.0", features = ["virtio-v5_0_0"] }
